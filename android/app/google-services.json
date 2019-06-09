@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "461243967650",
+    "firebase_url": "https://smartfarm-8f129.firebaseio.com",
+    "project_id": "smartfarm-8f129",
+    "storage_bucket": "smartfarm-8f129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461243967650:android:c4eea98ffa32a09b",
+        "android_client_info": {
+          "package_name": "com.hostarian.smartfarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461243967650-l1e0d786n9coi15vp6stesddit2lnqnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPKTLKgH9n1Khw2gi72l4JMpMWq6csKik"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
