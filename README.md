@@ -1,16 +1,8 @@
-# smartfarm
+# Agri Smart
 
-A new Flutter application.
+This project intends to solve the irrigation issues of the farmers with the employment of least cost.
 
 ## Getting Started
+The APP has been developed using Flutter and there also exists a folder ARDUINO SKETCHES which contains the contains the code for NodeMCU.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Detailed explanation would be included later.
